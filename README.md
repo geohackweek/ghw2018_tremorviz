@@ -1,1 +1,2 @@
-# ghw2018_tremorviz
+# TremorViz
+The working goal of this project is to create a series of interactive data visualizations and/or dashboards that can be used to explore seismic data. These data can have X, Y, Z, and time information, so visualizing all of those dimensions can be challenging. Our hope is that by using interactive visualization tools, the user will be able to add or subtract complexity and move between scales.
