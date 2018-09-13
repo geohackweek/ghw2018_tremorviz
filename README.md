@@ -89,4 +89,8 @@ Python visualization libraries bokeh or altair.
 
 We are going to try [altair](https://altair-viz.github.io/).
 
-## Background reading
+## Remaining problems to solve
+
+- Putting a background map of western Washington
+- Adding the depth contour lines of the plate boundary
+- Finding a way to set the limits (in latitude, longitude) of the plot
