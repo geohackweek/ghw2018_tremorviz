@@ -3,8 +3,7 @@
 data/.DS_Store
 data/tremor/.DS_Store
 data/tremor/__pycache__/*
-notebookks/.DS_Store
+notebooks/.DS_Store
 notebooks/*.json
 notebooks/*.html
 python_script/__pycache__/*
-python_script/*.html
